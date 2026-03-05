@@ -12,4 +12,7 @@ body {
 nav{
   display: flex;
   justify-content: space-between;
+  top: 0;
+  background: #ffffffcc;
+  backdrop-filter: blur(10px);
 }
