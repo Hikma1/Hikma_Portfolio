@@ -6,4 +6,6 @@
 }
 body {
   background: #f5f7fb;
+  color: #222;
+  scroll-behavior: smooth;
 }
