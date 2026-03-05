@@ -17,5 +17,6 @@ nav{
   backdrop-filter: blur(10px);
 }
 nav ul{
-  
+   display: flex;
+  gap: 20px;
 }
