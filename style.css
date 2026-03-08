@@ -21,3 +21,7 @@ nav ul{
   gap: 20px;
    list-style: none;
 }
+nav a {
+  text-decoration: none;
+  
+}
