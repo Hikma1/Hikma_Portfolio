@@ -26,3 +26,7 @@ nav a {
   color: #222;
   font-weight: 500;
 }
+.hero{
+  height: 90vh;
+  display: flex;
+}
