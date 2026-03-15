@@ -45,4 +45,6 @@ nav a {
   border-radius: 30px;
   background: #4f46e5;
   color: white;
+  text-decoration: none;
+  margin: 0 10px;
 }
