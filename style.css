@@ -64,5 +64,5 @@ section{
   padding: 40px;
 }
 .grid{
-  
+  display: grid;
 }
