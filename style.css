@@ -68,5 +68,5 @@ section{
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 .card {
-  
+   padding: 20px;
 }
