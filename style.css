@@ -87,5 +87,6 @@ section{
   gap: 30px;
 }
 .project {
+  display: flex;
 
 }
