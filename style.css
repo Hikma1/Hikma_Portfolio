@@ -88,5 +88,5 @@ section{
 }
 .project {
   display: flex;
-
+  flex-direction: column;
 }
