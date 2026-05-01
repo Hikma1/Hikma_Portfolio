@@ -103,3 +103,6 @@ section{
    padding: 8px 16px;
   font-size: 0.85rem;
 }
+.experience-grid {
+  display: grid;
+}
