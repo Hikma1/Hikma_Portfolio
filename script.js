@@ -8,3 +8,5 @@ window.addEventListener("scroll", () => {
     }
       });
 });
+reveals.forEach(section => {
+    
