@@ -9,4 +9,5 @@ window.addEventListener("scroll", () => {
       });
 });
 reveals.forEach(section => {
-    
+     section.classList.add("reveal");
+});
