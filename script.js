@@ -6,3 +6,5 @@ window.addEventListener("scroll", () => {
      if (top < windowHeight - 100) {
       section.classList.add("active");
     }
+      });
+});
