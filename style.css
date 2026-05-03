@@ -129,4 +129,6 @@ section{
 /* Scroll Animation */
 .reveal {
    opacity: 0;
+     transform: translateY(40px);
+  transition: all 0.8s ease;
 }
