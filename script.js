@@ -1,0 +1,1 @@
+const reveals = document.querySelectorAll("section");
