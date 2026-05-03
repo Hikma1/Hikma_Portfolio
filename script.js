@@ -1,3 +1,5 @@
 const reveals = document.querySelectorAll("section");
 window.addEventListener("scroll", () => {
-    
+     reveals.forEach(section => {
+    const top = section.getBoundingClientRect().top;
+    const windowHeight = window.innerHeight;
